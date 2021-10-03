@@ -29,7 +29,7 @@ Usage:
   BBDown [options] <url> [command]
 
 Arguments:
-  <url>    视频地址 或 av|bv|BV|ep|ss
+  <url>    视频地址 或 bv|BV|ep|ss
 
 Options:
   -tv, --use-tv-api                        使用TV端解析模式
